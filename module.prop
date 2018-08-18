@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
-minMagisk=1500
+id=Nav_bar
+name=On Screen Nav Bar
+version=v0.9
+versionCode=000100000
+author=Biplov aka Beast_slayer
+description=Enables On Screen Naigation bars for OnePlus 3/3T.
+minMagisk=1671
