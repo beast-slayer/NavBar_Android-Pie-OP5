@@ -9,3 +9,6 @@ MODDIR=${0%/*}
 # This Disables hw key backlight
 echo 0 > /sys/class/leds/button-backlight/max_brightness
 chmod 755 > /sys/class/leds/button-backlight/max_brightness
+
+#This adds navigation bar to the build.prop
+resetprop qemu.hw.mainkeys 0
