@@ -1,30 +1,36 @@
-# Magisk Module Template
-
-This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
-
-**Please update `README.md` if you want to submit your module to the online repo!**
-
-Github has its own online markdown editor with a preview feature, you can use it to update your `README.md`! If you need more advanced syntax, check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
-
----
-# **Module Name**
+# Magisk Module - Navigation Bar (9.0 Pie) OnePlus 3_3T 
 ## Description
-Description here
-## Changelog
-Changelog here
-## Requirements
-- Requirement 1
-- Requirement *
-- Requirement n
-## Instructions
-Instructions here
-- Or other instructions here
-- Followed by more instructions
-1. Or a list of instructions
-2. With more instructions
-## Links
-[Module XDA Forum Thread](https://forum.xda-developers.com/apps/magisk/module-url-here "Module official XDA thread")
 
-[Latest stable Magisk](http://www.tiny.cc/latestmagisk)
+After release of P based ROMs for OnePlus 3/T they miss out option to switch between hw buttons & On Screen Navigation bar.
+This module enables navigation bars with an edit in build prop.
+Also disables hardware buttons by comenting out key functions in keylayouts and turns off backlight.
+Module does not disable fingerprint sensor.
+
+Tested on: OnePlus 3/3T [Pixel Experience based on Android P]
+
+## Warnings: 
+Disable any other module which also conflicts with the build.prop
+
+Flash at your own risk we are not responsible for any bricked devices
+
+## Changelog
+v1.0 - Initial Release
+
+## Requirements
+- OnePlus /3T
+- Android P based rom
+- Latest Magisk Beta 
+
+## Instructions
+TO Enable:
+
+1. Download and flash the module.
+2. Enable from Magisk Modules
+3. Reboot
+
+TO Disable:
+
+1. Disable Module from Magisk Manager.
+2. Reboot
+OR
+3.Download and flash this via TWRP https://androidfilehost.com/?fid=529152257862711967
