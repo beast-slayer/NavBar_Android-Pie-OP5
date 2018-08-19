@@ -25,8 +25,7 @@ v1.0 - Initial Release
 TO Enable:
 
 1. Download and flash the module.
-2. Enable from Magisk Modules
-3. Reboot
+2. Reboot
 
 TO Disable:
 
