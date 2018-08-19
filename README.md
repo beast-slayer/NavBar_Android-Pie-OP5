@@ -9,8 +9,6 @@ Module does not disable fingerprint sensor.
 Tested on: OnePlus 3/3T [Pixel Experience based on Android P]
 
 ## Warnings: 
-Disable any other module which also conflicts with the build.prop
-
 Flash at your own risk we are not responsible for any bricked devices
 
 ## Changelog
