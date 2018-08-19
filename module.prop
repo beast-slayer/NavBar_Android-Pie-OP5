@@ -1,6 +1,6 @@
-id=Nav_bar
-name=On Screen Nav Bar
-version=v0.9
+id=Navigation_Bar
+name=Navigation Bar Enabler - OnePlus 3/3T (Android P)
+version=v1.0
 versionCode=000100000
 author=Biplov aka Beast_slayer
 description=Enables On Screen Naigation bars for OnePlus 3/3T.
