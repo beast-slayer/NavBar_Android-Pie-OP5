@@ -12,7 +12,7 @@ Tested on: OnePlus 5/5T [Pixel Experience based on Android P]
 Flash at your own risk we are not responsible for any bricked devices
 
 ## Changelog
-v1.0 - Initial Release
+v2.1 - Initial Release
 
 ## Requirements
 - OnePlus 5/5T
