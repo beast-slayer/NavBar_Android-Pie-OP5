@@ -48,7 +48,7 @@ print_modname() {
   ui_print "**************************************************************"
   ui_print "This module disables Hardware keys and backlights."
   ui_print "Enables On Screen Navigation Bar"
-  ui_print "Tested on OnePlus 5/5T on Pixel Experience 9.0"
+  ui_print "Tested on OnePlus 5 on Pixel Experience 9.0"
   ui_print "My TG ID: @Beast_slayer"
   ui_print "Get the xda thread here : https://forum.xda-developers.com/apps/magisk/module-enable-navigation-bar-disable-hw-t3831236"
 }
